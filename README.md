@@ -10,11 +10,9 @@
 
 ## 🚀 Technologies & Tools
 
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a" alt="Python" />
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=2bbc8a" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=2bbc8a" alt="HTML" />
 <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=2bbc8a" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2bbc8a" alt="Docker" />
 
 ---
 
