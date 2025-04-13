@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Toto0QI!
+# 👋 Hello, I'm 2flp!
 
 ## 🌌 About Me
 
@@ -25,9 +25,9 @@
 
 ## 📈 GitHub Stats
 
-![Ton Nom's GitHub stats](https://github-readme-stats.vercel.app/api?username=toto0qi&show_icons=true&theme=radical)
+![Ton Nom's GitHub stats](https://github-readme-stats.vercel.app/api?username=2flpp&show_icons=true&theme=radical)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=toto0qi&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=2flpp&layout=compact&theme=radical)
 
 ---
 
